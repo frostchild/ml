@@ -1,2 +1,5 @@
-# ml
-Library to Help with Training, Evaluating and Exporting Neural Networks in PyTorch
+# ML
+
+## TL;DR
+
+ML is a library to help with training, evaluating and exporting neural networks in PyTorch.
